@@ -1,6 +1,6 @@
 # gbd-assessment
 
-Growth by Design website assessment
+GBD website assessment
 
 Using HTML/CSS/JavaScript, please build a floating navigation with the following requirements:
 
